@@ -1,0 +1,3 @@
+.ipynb_checkpoints/
+doit_pandas/data/
+doit_pandas/output/
